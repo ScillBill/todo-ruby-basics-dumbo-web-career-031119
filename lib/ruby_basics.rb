@@ -1,5 +1,5 @@
 def division(num1, num2)
- 
+  quotient = num1 / num2
 end
 
 def assign_variable(value)
@@ -25,3 +25,5 @@ end
 def pizza_party
 
 end
+
+division(42, 7)
